@@ -1,0 +1,1 @@
+A simple jokes app developed using the spring framework. It is part of an assignment for the spring framework course conducted by John Thompson.
